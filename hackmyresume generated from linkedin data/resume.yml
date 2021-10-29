@@ -1,0 +1,349 @@
+name: 'Justin Elliott'
+info:
+  label: 'Project Manager Technical Lead at Flex'
+  image: ""
+  brief: 'Technically driven leader with a devotion to innovative process optimization within projects and departments. Self-made powerhouse with eclectic knowledge across technical leadership, business management, and entrepreneurship. Demonstrated success creating tailored workflow solutions with the potential to reduce costs by up to $700k YoY. Empowering mentor, inspiring and challenging colleagues to perform to the best of their abilities through introspection and goal alignment. Continuous forward thinking to reduce risks, decrease costs, and increase customer trust and satisfaction.'
+contact:
+  email: justin-elliott@outlook.com
+  phone: '(972) 861-0555‬'
+  website: ""
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2021-10-28T05:59:51.290Z'
+location:
+  country: US
+  address: 'Dallas, Tx'
+employment:
+  history:
+    -
+      position: 'Project Manager Technical Lead'
+      employer: Flex
+      summary: "•\tLeading multinational and cross discipline teams of up to 15 in delivering life altering Class II medical devices.\n•\tAdvise external executive stakeholders on reducing program risks related to the integration of Flex deliverables and FDA submission of the final product.\n•\tOn track to deliver project within 36 months and within $10m budget as the third highest profiting program, quarter over quarter, within both the design and production centers.\n•\tDesigned and developed cross-functional workflows using Python, MS Project, and Jira to standardize and automate status updates, saving up to ~$700k within the first year by reducing the average engineer lead overhead time by 2 - 4 hours weekly.\n•\tReduced deliverable defect rate by ~30% and mitigated a major risk by implementing an automated target hardware regression test framework and test-driven development strategy.\n•\tIncreased customer satisfaction score by ~20% within a year leading to 2 additional proposals with the same customer.\n"
+      current: true
+      start: '2018-10-31'
+      end: ""
+      url: 'https://www.linkedin.com/company/2279'
+      keywords: []
+      highlights: []
+    -
+      position: 'Business Owner'
+      employer: 'Ignite Art Collective'
+      summary: "•\tBootstrapped production company to a $10k monthly revenue within 1 year and partnered with a leading Dallas venue.\n•\tOrganized and coordinated monthly multi-stage events with 3-month lead time in preparation of 75+ individual con-tributors and 500+ attendees.\n"
+      start: '2017-09-30'
+      end: '2019-10-31'
+      url: 'https://www.linkedin.com/company/20290885'
+      keywords: []
+      highlights: []
+    -
+      position: 'Embedded Software Engineer'
+      employer: Flex
+      summary: "•\tDesigned an embedded real-time multi-core low-power SW architecture utilizing multitask RTOS environments and OTS software to perform drug delivery within 1% accuracy tolerance and under 10mA sleep current.\n•\tMentored others in development of I2C, UART, SPI, and other drivers for components such as encoders, motor controller, and processor to processor communication.\n•\tDesigned embedded asynchronous GUI architecture with multi-language and multi-window support.  \n•\tDesigned full stack Ethereum block chain solution for a health service IoT prototype.\n"
+      start: '2015-10-31'
+      end: '2018-10-31'
+      url: 'https://www.linkedin.com/company/2279'
+      keywords: []
+      highlights: []
+    -
+      position: 'Senior System Software Engineer'
+      employer: Raytheon
+      summary: "• Collaborate with customer and subcontracted developers to manage and implement requirements. \n• Develop system model, using Java in a Linux environment, to verify performance and design decision efforts.\n• Interview the various software and R&D groups to research design decisions that affect the model performance.\n• Monitor data overheard of the system by running various simulations and performing statistical analysis.\n• Manage phase gate reviews for overall software system design and development."
+      start: '2015-04-30'
+      end: '2015-08-31'
+      url: 'https://www.linkedin.com/company/1505'
+      keywords: []
+      highlights: []
+    -
+      position: 'Software Engineer'
+      employer: Raytheon
+      summary: "•\tDevelop multi-threaded OOP in an embedded environment using C++ and Ada. \n•\tImplemented built in testing and fault logging to be used for integration, reliability verification, and product lifetime maintenance.\n•\tBackup SME for Built In Testing, fault logging, and software based motor controlling.\n•\tPerform demos with Chief Engineer, support manned flight tests, and work directly with customer, to integrate system components across hardware, software, mechanical, and system engineering.\n•\tMaintain and advance the standards of the embedded real time software product line architecture, consisting of over 15 subsystems. \n•\tCreate and maintain extensive UML software design diagrams.\n•\tUse Waterfall method while progressively promoting Agile development.\n•\tCreate and perform black and white box testing procedures to verify functional and algorithmic requirements."
+      start: '2011-02-28'
+      end: '2015-04-30'
+      url: 'https://www.linkedin.com/company/1505'
+      keywords: []
+      highlights: []
+    -
+      position: 'Software Developer'
+      employer: ARGO
+      summary: "•\tDebugged complex problems with languages such as HTML, JS, XML, and Argo proprietary software.\n•\tPerformed penetration testing to assess all weak SQL injection points. \n"
+      start: '2011-02-28'
+      end: '2011-10-31'
+      url: 'https://www.linkedin.com/company/14809'
+      keywords: []
+      highlights: []
+    -
+      position: 'Technical Marketing Engineer'
+      employer: 'Bio-Synthesis, Inc'
+      summary: "•\tManaged web team in updating and adding new features to three company websites. This included planning new navigation, search features, and databases.\n•\tDocumentation and study of internal business activities to help develop ERP/CRM solution. This consisted of recognizing where improvements were needed for efficiency.\n•\tStudied keyword searches and visitor trends in Google Analytics to further optimize sites and increase page ranking.  \n•\tOversaw web based marketing while managing a $20,000/year budget.\n"
+      start: '2010-05-31'
+      end: '2011-02-28'
+      url: 'https://www.linkedin.com/company/675647'
+      keywords: []
+      highlights: []
+education:
+  level: ""
+  history:
+    -
+      institution: 'The University of Texas at Dallas'
+      start: '2013-12-31'
+      end: '2017-12-31'
+      grade: '4.0'
+      curriculum:
+        - 'null - Advanced Testing Techniques'
+        - 'null - Modeling and Simulation'
+      summary: ""
+      area: 'Systems Engineering and Management'
+      studyType: 'Master''s Degree'
+    -
+      institution: 'The University of Texas at Dallas'
+      start: '2006-12-31'
+      end: '2010-12-31'
+      grade: '3.1'
+      curriculum:
+        - 'null - Operating Systems'
+        - 'null - Data Structures and Algorithms'
+        - 'null - Organization of Programming Languages'
+        - 'null - Digital Systems'
+        - 'null - Microelectronic Circuits'
+        - 'null - Electrical Network Analysis'
+        - 'null - Embedded Microprocessors'
+        - 'null - Computer Architecture'
+      summary: ""
+      area: 'Computer Engineering'
+      studyType: 'Bachelor''s Degree'
+service: {}
+skills:
+  sets:
+    -
+      name: 'Business Process Improvement'
+      level: ""
+      skills: []
+    -
+      name: 'Project Management'
+      level: ""
+      skills: []
+    -
+      name: 'Software Engineering'
+      level: ""
+      skills: []
+    -
+      name: 'Software Design'
+      level: ""
+      skills: []
+    -
+      name: Raytheon
+      level: ""
+      skills: []
+    -
+      name: 'Professional Mentoring'
+      level: ""
+      skills: []
+    -
+      name: 'Agile & Waterfall Methodologies'
+      level: ""
+      skills: []
+    -
+      name: C++
+      level: ""
+      skills: []
+    -
+      name: 'Object-Oriented Programming (OOP)'
+      level: ""
+      skills: []
+    -
+      name: 'IEC 62304'
+      level: ""
+      skills: []
+    -
+      name: 'Embedded Software'
+      level: ""
+      skills: []
+    -
+      name: 'Requirements Analysis'
+      level: ""
+      skills: []
+    -
+      name: Microcontrollers
+      level: ""
+      skills: []
+    -
+      name: 'Analytical Skills'
+      level: ""
+      skills: []
+    -
+      name: 'Systems Engineering'
+      level: ""
+      skills: []
+    -
+      name: 'Software Development'
+      level: ""
+      skills: []
+    -
+      name: 'Python (Programming Language)'
+      level: ""
+      skills: []
+    -
+      name: 'Executive-level Communication'
+      level: ""
+      skills: []
+    -
+      name: Scrum
+      level: ""
+      skills: []
+    -
+      name: 'Software Verification'
+      level: ""
+      skills: []
+    -
+      name: 'Budget Management'
+      level: ""
+      skills: []
+    -
+      name: 'Representational State Transfer (REST)'
+      level: ""
+      skills: []
+    -
+      name: 'Requirements Engineering'
+      level: ""
+      skills: []
+    -
+      name: 'Test Driven Development'
+      level: ""
+      skills: []
+    -
+      name: 'Resource Management'
+      level: ""
+      skills: []
+    -
+      name: 'Program Management'
+      level: ""
+      skills: []
+    -
+      name: 'Software Validation'
+      level: ""
+      skills: []
+    -
+      name: 'Computer Science'
+      level: ""
+      skills: []
+    -
+      name: 'Product Management'
+      level: ""
+      skills: []
+    -
+      name: 'Medical Devices'
+      level: ""
+      skills: []
+    -
+      name: 'Real-Time Operating Systems (RTOS)'
+      level: ""
+      skills: []
+    -
+      name: 'Continuous Integration'
+      level: ""
+      skills: []
+    -
+      name: UML
+      level: ""
+      skills: []
+    -
+      name: Negotiation
+      level: ""
+      skills: []
+    -
+      name: 'C (Programming Language)'
+      level: ""
+      skills: []
+    -
+      name: 'Agile Methodologies'
+      level: ""
+      skills: []
+    -
+      name: 'Project Planning'
+      level: ""
+      skills: []
+    -
+      name: Management
+      level: ""
+      skills: []
+    -
+      name: 'Software Architecture'
+      level: ""
+      skills: []
+    -
+      name: 'Design Control'
+      level: ""
+      skills: []
+    -
+      name: Multithreading
+      level: ""
+      skills: []
+    -
+      name: 'Stakeholder Management'
+      level: ""
+      skills: []
+    -
+      name: 'Embedded Systems'
+      level: ""
+      skills: []
+    -
+      name: 'Business Development'
+      level: ""
+      skills: []
+    -
+      name: 'Cross-functional Team Leadership'
+      level: ""
+      skills: []
+    -
+      name: 'Software Documentation'
+      level: ""
+      skills: []
+    -
+      name: 'Unit Testing'
+      level: ""
+      skills: []
+    -
+      name: 'IEC 60601'
+      level: ""
+      skills: []
+    -
+      name: 'Software Project Management'
+      level: ""
+      skills: []
+writing: []
+social:
+  -
+    label: LinkedIn
+    network: LinkedIn
+    url: 'https://www.linkedin.com/in/justin-elliott-tx/'
+    user: justin-elliott-tx
+interests: []
+testimonials:
+  -
+    name: 'Catrina Rincon'
+    flavor: professional
+    quote: 'Justin is a self-made powerhouse, with a heart of gold. While we were creating and running Ignite Art Collective, I got to see his drive, passion, and innovative nature in action. His mind is always on; ticking with new ideas, developing strategies for internal improvement, and discovering the next move to maintain forward mobility. He has a love for research, a thirst for growth, and a vigorous desire to see his team thrive that can, absolutely, not be matched. All the while, he stays humble, shows genuine care in the people around him, and holds himself accountable. Having him on our team is what set our brand apart from the rest, and was fundamental in our success.'
+    private: false
+  -
+    name: 'Preston Burkhalter'
+    flavor: professional
+    quote: 'Justin is a rare individual who has the technical skills to build something from the ground up, and the vision to manage a project to completion. We studied together while working on Masters degrees at UT Dallas, and on the projects we worked on together, he was a stellar team member and leader. Our teams always knew we could count on him to deliver on his promises, meet our team deadlines, and present our information both professionally and in a way that non-technical people could clearly understand the highly technical nature of whatever project we were working on. Justin is someone who I''d love to work with again and I highly recommend him for any position.'
+    private: false
+  -
+    name: 'Robert Simmons, CSM, CISA'
+    flavor: professional
+    quote: 'It was  a pleasure to work with Justin.   He was always conscientious of his work.  From quality to timeliness, I never had to worry whether or not Justin was going to deliver.  Look forward to hearing about his successes as he grows his career!'
+    private: false
+  -
+    name: 'Michael Lawson'
+    flavor: professional
+    quote: 'Justin worked on developing and maintaining embedded real-time software applications. He worked all phases of the software process (requirements through system integration and test) as well as collaboratively with other disciplines (systems, test, electrical and mechanical) to solve system issues.  Although he followed our in-house development processes, he advocated for improvements to our processes based on other work experience and his masters coursework.  I would recommend him for any software or systems position.'
+    private: false
+  -
+    name: 'Ian Flynn'
+    flavor: professional
+    quote: 'Justin is a amiable character who will diligently work through his tasks.'
+    private: false
+languages:
+  -
+    language: en
+    fluency: 'Native Speaker'
