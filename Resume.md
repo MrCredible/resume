@@ -1,5 +1,8 @@
-Justin Elliott\
+
+<div class="begin-examples"></div>
+Justin Elliott
 Dallas, Tx
+<div class="begin-examples"></div>
 
 972-861-0555
 
@@ -7,11 +10,11 @@ Email: <Justin-Elliott@outlook.com>
 
 LinkedIn: <https://bit.ly/JustinElliott_CV>
 
-SUMMARY
+## SUMMARY
 
 > Technology driven leader with a devotion to innovative process optimization within projects and departments. Self-made powerhouse with eclectic knowledge across technical leadership, business management, and entrepreneurship. Demonstrated success creating tailored workflow solutions that reduce costs by \$700k YoY. Empowering mentor, inspiring and challenging colleagues to perform to the best of their abilities through introspection and goal alignment. Continuous forward thinking to reduce risks, decrease costs, and increase customer trust and satisfaction.
 
-PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 **2015 -- Present** **Flex Dallas, Tx\
 ***Technical Project Manager 2019 - Present*
@@ -26,7 +29,7 @@ PROFESSIONAL EXPERIENCE
 
 -   Reduced deliverable defect rate by \~30% and mitigated major risk by implementing an automated target hardware regression test framework and test-driven development strategy.
 
-> Improved customer satisfaction score by \~20% within a year leading to an additional \$1m in new business
+- Improved customer satisfaction score by \~20% within a year leading to an additional \$1m in new business
 
 *Embedded Software Lead 2015 - 2019*
 
@@ -52,7 +55,7 @@ PROFESSIONAL EXPERIENCE
 
 -   Championed use of Agile methodologies; CI, and TDD of a 20-year-old product line.
 
-EDUCATION
+## EDUCATION
 
 **University of Texas at Dallas**
 
