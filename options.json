@@ -1,0 +1,9 @@
+{
+    "theme": "../fresh-themes/themes/compact",
+  
+    "wkhtmltopdf": {
+        "title":"Justin Elliott Resume",
+        "page-size": "A4",
+        "margin-top": "20mm"
+    }
+  }

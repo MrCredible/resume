@@ -1,33 +1,34 @@
 
-<div class="begin-examples"></div>
-Justin Elliott
-Dallas, Tx
-<div class="begin-examples"></div>
+# Justin Elliott
 
+Dallas, Tx<br/>
 972-861-0555
 
-Email: <Justin-Elliott@outlook.com>
-
-LinkedIn: <https://bit.ly/JustinElliott_CV>
+**Email:** <Justin-Elliott@outlook.com><br/>
+**LinkedIn:** <https://bit.ly/JustinElliott_CV>
 
 ## SUMMARY
 
 > Technology driven leader with a devotion to innovative process optimization within projects and departments. Self-made powerhouse with eclectic knowledge across technical leadership, business management, and entrepreneurship. Demonstrated success creating tailored workflow solutions that reduce costs by \$700k YoY. Empowering mentor, inspiring and challenging colleagues to perform to the best of their abilities through introspection and goal alignment. Continuous forward thinking to reduce risks, decrease costs, and increase customer trust and satisfaction.
 
 ## PROFESSIONAL EXPERIENCE
+### Flex
+Dallas, TX<br/>
+2015-Present
 
-**2015 -- Present** **Flex Dallas, Tx\
-***Technical Project Manager 2019 - Present*
+Technical Project Manager
 
--   Leading multinational and cross discipline teams of 15 to deliver life altering Class II medical devices.
+2019 - Present
 
--   Advise external executive stakeholders on reducing program risks related to the integration of Flex deliverables and FDA submission of the final product.
+- Leading multinational and cross discipline teams of 15 to deliver life altering Class II medical devices.
 
--   Delivered project within planned 36 month schedule and under \$10m budget continuing to be one of the highest profiting programs, quarter over quarter, within both the design and production centers.
+- Advise external executive stakeholders on reducing program risks related to the integration of Flex deliverables and FDA submission of the final product.
 
--   Designed and developed cross-functional workflows using Python, MS Project, and Jira to standardize and automate status updates, saving up to \~\$700k within the first year by reducing the average engineering overhead time by \~10% (\~4 hours) weekly.
+- Delivered project within planned 36 month schedule and under \$10m budget continuing to be one of the highest profiting programs, quarter over quarter, within both the design and production centers.
 
--   Reduced deliverable defect rate by \~30% and mitigated major risk by implementing an automated target hardware regression test framework and test-driven development strategy.
+- Designed and developed cross-functional workflows using Python, MS Project, and Jira to standardize and automate status updates, saving up to \~\$700k within the first year by reducing the average engineering overhead time by \~10% (\~4 hours) weekly.
+
+- Reduced deliverable defect rate by \~30% and mitigated major risk by implementing an automated target hardware regression test framework and test-driven development strategy.
 
 - Improved customer satisfaction score by \~20% within a year leading to an additional \$1m in new business
 
