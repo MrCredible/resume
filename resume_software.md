@@ -14,7 +14,7 @@ Technology-driven leader with a devotion to innovative process optimization with
 
 #### Technical Project Manager | Flex
 
-_10/2018 - Present_
+_2018 - Present_
 _Dallas, TX_
 
 * Leading multinational and cross-discipline teams of 15 to deliver Class II medical devices.
@@ -43,9 +43,6 @@ _Dallas, TX_
 * Organized and coordinated monthly multi-stage events with a 3-month lead time in preparation of 75+ individual contributors and 500+ attendees.
 
 #### Embedded Software Engineer | Raytheon
-
-_02/2011-02 — 04/2015_
-_Dallas, TX_
 
 * Achieved SME status for three separate subsystems; built-in testing, fault logging, and motor controllers.
 * Championed use of Agile methodologies; CI, and TDD of a 20-year-old product line.
